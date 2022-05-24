@@ -1,2 +1,2 @@
-# Analyzing-UCI-crimes-and-sommunities
+# Analyzing-UCI-crimes-and-communities
 The dataset used for this experiment is real and authentic. The dataset is acquired from UCI machine learning repository website. The title of the dataset is ‘Crime and Communities’. It is prepared using real data from socio-economic data from 1990 US Census, law enforcement data from the 1990 US LEMAS survey, and crimedata from the 1995 FBI UCR . This dataset contains a total number of 147 attributes and 2216 instances.
